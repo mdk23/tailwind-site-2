@@ -20,3 +20,6 @@ Example of how to use Tailwind
 
 
 ![imagem 5](https://user-images.githubusercontent.com/33373038/196906831-5256f2d8-87f3-4334-a013-1ed9933d5b92.png)
+
+
+**Made by ©💻MDK**
